@@ -1,6 +1,8 @@
 # File-Uploader
 A simple PHP file uploader service, powered by Bootstrap. This project is currently hosted at https://files.icurriculum.co/. 
 
+# This project is now deprecated
+Use [this](https://github.com/trihardspace/fileuploader) instead.
 
 
 ## How to use.
